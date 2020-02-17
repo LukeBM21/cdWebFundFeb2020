@@ -1,4 +1,4 @@
-var passPhrase= "Hello World";
+var passPhrase= "Open Sesame";
 if(passPhrase == "Open Sesame"){
     console.log("Wrong Secret PassPhrase");
 }
